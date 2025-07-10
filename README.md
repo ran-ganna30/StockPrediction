@@ -1,5 +1,4 @@
 
-```markdown
 # 📈 Stock Price Prediction using Machine Learning
 
 This project uses **Linear Regression** to forecast future stock prices based on historical data. It's a beginner-friendly application of supervised machine learning in the field of **financial data analysis**.
@@ -42,7 +41,6 @@ The dataset is sourced from **[Yahoo Finance](https://finance.yahoo.com/)**. You
 📫 [LinkedIn](https://www.linkedin.com/in/ranveerganna)
 📧 [rganna2@illinois.edu](mailto:rganna2@illinois.edu)
 
----
 
 ## ⭐️ Show your support
 
